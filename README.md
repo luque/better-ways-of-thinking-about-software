@@ -11,12 +11,9 @@ git submodule update --init --recursive
 ## Contents of this repo
 
   * Introduction to the series ---> index.html
-  
   * Part 1: Introduction to Model Checking with TLA+:
-      |
-      +--> slides: Slides of Part 1.
-      |
-      +--> sources: TLA+ sources for exercises.
+     * Slides: Slides of Part 1.
+     * Sources: TLA+ sources for exercises.
 
 
 
