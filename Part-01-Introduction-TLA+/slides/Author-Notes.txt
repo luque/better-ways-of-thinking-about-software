@@ -1,0 +1,360 @@
+Level Up Your Skills to Think About Code
+
+Ways to *Really* Think About Our Code
+
+We Need to Start *Really* Thinking About Our Code
+
+You only think you're thinking about your code
+
+  - Part 1. Verifiable Specs --- with Formal Specifications in TLA+
+  - Part 2. Thinking in properties --- with Genesis
+  - Part 3. Another TDD --- Type-Driven Development with Idris
+===================================================================
+
+
+
+"Thinking Above the Code" by Leslie Lamport
+-------------------------------------------
+
+
+  ** When to think:
+  
+     We should be thinking before start writing any code.
+
+  ** How to think:
+
+     "Writing is nature's way of letting you know how sloppy your thinking is" Richard Guindon
+
+     To think, to really think, you have to write.
+
+     If you're thinking without writing, you only think you're thinking.
+
+
+  ** What to write
+
+     There is a spectrum of blueprints: very detailed <--- ordinary ---> rough sketch
+
+     A blueprint for software is called specification.
+
+     There is also an spectrum of specifications:
+
+       prose <-- mathematical prose --> formal specifications (complex or critical systems. E.g. concurrent/distributed systems)
+
+       We need tools (a formal language) to check our specifications.
+
+     Some sort of specification (thought) should be written for any software.
+
+
+  ** How to think about programs:
+
+     Like a scientist:
+     
+       Science makes mathematical **models** of reality. E.g. Astronomy.
+
+     Reality in software: computer, programs, etc.
+     
+       Most useful models: functions and sequences of states.
+
+     Limitations:
+       - functions says what a program does, but not how it does.
+
+     * Standard Behavioral Model:
+       - A program execution is represented by a behavior.
+       - A behavior is a sequence of states.
+       - A state is an assignment of values to variables.
+       - A program is modeled by a set of behaviors.
+
+  ** Safety and Liveness Properties
+
+     * How to specify a safety property
+
+       - the set of possible initial states: described by a mathematical formula.
+       - a next-state relation: described by a mathematical formula.
+
+    * Example Euclid's Algorithm to get the GCD of two numbers N and M.
+
+  ** We need formal specs to be able to use tools --> The Language: TLA+
+
+  ** You can model check TLA+ specs:
+
+     - Check all possible executions of a program in an small model.
+
+  ** Chris Newcombe: Amazon use of TLA+ on 10 large complex real-world systems.
+
+
+  ** What programmers should know about thinking
+
+     - You should write before you code.
+     - A spec is simply what you write before coding.
+
+  ** What code should you specify?
+
+      - Any piece of code that someone else (or yourself in a month) might want to use or modify.
+
+
+
+"Programming Should Be More Than Coding" by Leslie Lamport
+----------------------------------------------------------
+
+  ** 3 tasks in doing something:
+
+    1. Decide what to do
+    2. Decide how to do it
+    3. Do it
+
+  ** Programming:
+
+    1. Decide what the program should do.
+    2. Decide how the program should do it.
+    3. Implement theses decisions in code --> CODING
+
+  ** The thinking we do before we code.
+     We need to do this thinking.
+     How should we do it?
+
+  ** For a Really easy problem?
+     Trivial. No thinking required.
+     Really? E.g. Increment an integer by 1 --> Y2K38 issue.
+     --> It requires thinking to know how easy a problem really is.
+
+  ** (Clear) thinking can prevent errors.
+     Fuzzy thinking can't.
+     Wishful thinking can cause errors.
+
+  ** How to think clearly
+
+     "Writing is nature's way of letting you know how sloppy your thinking is." Guindon
+     
+     If you're thinking without writing, you only think you're thinking.
+
+  ** Specifications
+
+     Specs are what we write when performing tasks 1 & 2.
+
+     Help us think clearly.
+
+     You write a spec to help you think about the problem before you think about the code.
+     The spec is at a higher-level than the code.
+     It says nothing about how to write the code.
+
+     What language should we use to write specs?
+
+       - Sometimes TLA+
+
+       --> Sometimes English (informal specs), PBTs, Types, etc. (the other workshop parts):
+
+
+  ** TLA:
+
+     - How can we think more clearly? Thinking like a scientist.
+     - Science makes mathematical models of reality.
+     - Models vs. Reality
+     - A model is useful for certain purposes.
+     - In Computer Science -->
+
+         Reality: Computer(s) executing a program(s).
+         Models: A lot of, but...
+	         - His proposal:
+		   Functions: Model a program as a function mapping input(s) to output(s).
+
+     - Standard Behavioral Model:
+        - A program execution is represented by a behavior.
+        - A behavior is a sequence of states.
+        - A state is an assignment of values to variables.
+        - A program is modeled by a set of behaviors.
+	
+     - Example of GCD (greatest common divisor) program:
+        - Task 1
+	- Task 2 with Euclid's Algorithm
+
+     - It's easy to miss problems in informal specifications.
+          E.g. GCD with negative numbers or 0.
+     - How to specify a behaviour rigorously:
+
+        Theorem: Any set of behaviors can be described by
+                safety property ^ liveness property
+
+        Safety property: Asserts something bad does not happen.
+        Liveness property: Asserts something good eventually happens.
+
+      - Set of Initial State:
+           (x = M) ^ (y = N)
+      - Next-State relation described by a formula:
+           ( x > y
+	     ^ x' = x -y
+	     ^ y' = y)
+	   \/ ( y > x
+	        ^ x ' = x
+		^ y' = y - x)
+
+      - How to express in TLA+ language for formal specs.
+      
+      - You can model check TLA+ specs:
+         - Checks all possible behaviors on a small model.
+	 - You can write formal correctness proofs and check them mecanically (TLAPS).
+
+      - TLA+ is math:
+        - PlusCal is like a toy programming language.
+	- Algorithm appears in a comment in a TLA+ module.
+	- An expression can be any TLA+ expression.
+	- Compiled to a TLA+ spec.
+	- Can apply TLA+ tools to check.
+
+      Real-World Examples:
+      
+      ---> Use of TLA+ specs on large complex real-world systems by AWS.
+
+      ---> Xbox360 memory system:
+
+           The bug would have caused every Xbox 360 to crash afeter 4 hours of use.
+
+      - Programs that run forever:
+
+        Usually involve concurrency or distributed systems.
+	Few people can get then right by just thinking.
+	We need tools to check what we do.
+	Use TLA+/PlusCal.
+
+      - What programmers should know about thinking:
+
+        - You should think before you code -->
+	- You should write before you code.
+	- An spec is simply what you write before coding.
+
+      - What code you should specify?
+
+        - Any piece of code that someone else (or you) might want to use or modify:
+	   - An entire program or system.
+	   - A class.
+	   - A method.
+	   - A tricky piece of code in a method.
+
+
+       - How should you think about / specify the code?
+           - Above the code level.
+	   - Mathematically, as rigorously/formally as necessary.
+
+       - You still have to test and debug.
+         - You always will have bugs in your implementation, though the model is correct.
+         - Writing specs is an additional step.
+
+       - Writing is hard
+         - Writing requires thinking
+	    - Thinking is hard
+	      - It's easier to think you're thinking
+
+       - Thinking doesnt guarantee that you won't make mistakes.
+        
+         "No battle was ever won according to plan,
+	  but no battle was ever won without one" --- Eisenhower
+
+
+
+* An Example of Debugging Java with a Model Checker
+---------------------------------------------------
+
+  ** What makes dealing with concurrent systems more difficult is their inherent nondeterminism.
+  ** This results in bugs that occur extremely rarely and are not reproducible.
+     --> Eisenbugs or Schrodinbugs.
+  ** Example:
+       Shared buffer for a system of producers and consumers threads.
+       Buffer.java
+       The Bug
+       The Debugging session
+         --> the system is nondeterministic and only some combination of timing values can produce the desired deadlock.
+
+       java AnnotatedBuffer 2 3 2 3 2
+       01:35:39.047: DEADLOCK after 3970423422 messages and 1576335.9 seconds!
+
+       Note that this is almost 4 billion messages and more than 18 days running! 
+
+       The Bug: All the threads (producers and consumers) are waiting in the same wait set. When method get calls notify, the intent is to notify a producer that a slot has been made available in the buffer. But this call can sometimes notify a consumer instead and, if this happens a few times, it leads to a deadlock.
+
+  ** Applying formal methods:
+
+     What if the next bug only happens once a month? Once a year?
+     
+
+     A TLA+ module defines a state transition system. A state (a mapping of variables names to values) transitions into a new state through actions that represent the behavior of the system. Actions are defined logically as a relation between values in the state before the action and values in the state after the action, which are primed.
+
+     One can write nondeterministic actions (like the last two above for which, given x, there are several possible values of x'), which are often very useful in modeling concurrent systems: x’ = 0 ∨ x’ = x + 1 ∨ x’ = x specifies that x could become 0 or increase by 1 or stay unchanged; x’ ∈ {x, x + 1, 0} is exactly the same thing.
+
+     The TLA+ model has three sources of nondeterminism: which thread wakes up when notify is called; which thread acquires the lock on the buffer and can attempt a put or get operation; and when the thread is a producer, which piece of data is put into the buffer. Note how all this nondeterminism is introduced using logical disjunction or existential quantifiers (which are basically the same thing). Note also that the third source of nondeterminism may not be in the Java program (producers tend to produce specific elements) and is irrelevant anyway. The other two sources of nondeterminism are the ones that complicate the analysis of the system and lead to potential deadlocks. 
+
+
+  ** Model checking:
+
+  A TLA+ module can be used for several things:
+    - Randomized simulations (like the manual debugging).
+    - Formal proofs.
+    - Model checking:
+      - works by basically enumerating all the possible behaviors of a system and checking that they all have the desired properties.
+      - It is much more powerful than randomized simulations and much easier to carry out than formal proofs.
+
+   TLC tries to calculate all the reachable states of a system in a breadth-first manner. This is in contrast to the testing our programmer did before, which only tried some randomly chosen paths.
+     - it doesn’t rely on luck to find bugs
+     
+
+   It takes 23 transitions to reach the deadlock.
+   Since TLC works in a breadth-first manner, there is no shorter behavior that results in a deadlock.
+   For these 23 actions to actually happen in the right order with the Java program, one needs luck (good luck when testing, bad luck once deployed).
+
+   Limitations:
+   - State Space Explosion: Even small nondeterministic systems can have too many states to be model-checked.
+   Consider the buffer example again with a capacity of 10 but 21 threads (11 producer and 10 consumers). This system can deadlock. The shortest trace is 431 steps and TLC had to generate 2,219,959,047 states (23,011,357 of which are distinct) to find it. 
+
+   model checking can be a way to discover bugs that result from nondeterminism, for which testing can be very tricky (and requires patience, computing resources and, what is much more problematic, luck).
+
+
+
+* The Verification of a Distributed System
+------------------------------------------
+
+   ** Safety & Liveness properties
+   ** "It's a good idea to understand a system before building it,
+       so it's a good idea to write a specification of a system before implementing it"
+       --- Leslie Lamport, Specifying Systems.
+
+   ** Use of Formal Methods at Amazon Web Services
+   ** "Formal methods deal with models of systems, not the systems themselves"
+   ** ---> "Simple Testing Can Prevent Most Critical Failures" paper.
+   ** Property-Based Testing inspired on model checking.
+   ** ---> Passing Tests Does Not Ensure Correctness.
+   ** ---> Rotten Green Tests
+
+
+
+* Who Builds a House without Drawing Blueprints?
+------------------------------------------------
+
+"Architects draw detailed plans before a brick is laid or a nail is hammered.
+But few programmers write even a rough sketch of what their programs will do before they start coding."
+
+
+
+
+* Distributed Transaction Explained Through TLA+
+------------------------------------------------
+
+
+
+
+
+
+References
+==========
+
+* "Leslie Lamport: Thinking Above the Code": https://www.youtube.com/watch?v=-4Yp3j_jk8Q&t=88s
+* "Programming Should Be More Than Coding" Leslie Lamport. https://www.youtube.com/watch?v=6QsTfL-uXd8
+* "An Example of Debugging Java with a Model Checker": http://www.cs.unh.edu/~charpov/teaching-cs745_845-example.html
+* "Water Jug Problem Die Hard 3": https://www.youtube.com/watch?time_continue=58&v=6cAbgAaEOVE
+* "GOTO 2016 • The Verification of a Distributed System • Caitie McCaffrey": https://www.youtube.com/watch?v=kDh5BrqiGhI
+* "Who Builds a House Without Drawing Blueprints?" Leslie Lamport. https://cacm.acm.org/magazines/2015/4/184705-who-builds-a-house-without-drawing-blueprints/abstract
+
+* "Distributed Transaction Explained through TLA+": https://accelazh.github.io/images/distributed_transaction_explained_through_tla_plus.pdf
+
+* "Tackling Concurrency Bugs with TLA+" by Hillel Wayne: https://www.youtube.com/watch?v=_9B__0S21y8
+* "How Amazon Web Services Uses Formal Methods" Chris Newcombe: https://www.cslab.pepperdine.edu/warford/math221/How-Amazon-Web-Services-Uses-Formal-Methods.pdf
+
+
+
