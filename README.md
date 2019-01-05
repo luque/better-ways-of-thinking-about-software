@@ -6,9 +6,9 @@ This is a work in progress. It would be updated as new talks and workshops were 
 
 ## Contents of this repo
 
-  * [Introduction to the series](index.html)
+  * [Introduction to the series](https://osoco.github.io/better-ways-of-thinking-about-software/)
   * Part 1: Introduction to Model Checking with TLA+:
-     * [Slides](Part-01-Introduction-TLA+/slides/formal-specifications.html)
+     * [Slides](https://osoco.github.io/better-ways-of-thinking-about-software/Part-01-Introduction-TLA+/slides/formal-specifications.html)
      * [TLA+ sources for exercises](Part-01-Introduction-TLA+/sources)
 
 
