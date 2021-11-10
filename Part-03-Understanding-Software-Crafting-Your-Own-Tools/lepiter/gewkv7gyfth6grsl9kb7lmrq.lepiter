@@ -1,0 +1,1036 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T11:32:38.865978+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:13:32.029287+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "qmhZe86MDQC0ZJE+CJOzBw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "[ArgoUML](https://en.wikipedia.org/wiki/ArgoUML) es una herramienta open source para crear diagramas UML desarrollada en Java. La [version 0.34](https://github.com/argouml-tigris-org/argouml/releases/tag/VERSION_0_34) que vamos a utilizar consta de unas 2.400 clases y 200 KLoC."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T11:53:20.836537+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T11:54:58.709835+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Tahjxc6MDQC0ZbO2CJOzBw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Una vez descargados los fuentes del proyecto vamos a proceder a generar un modelo MSE del sistema utilizando la herramienta [jdt2famix]( https://github.com/feenkcom/jdt2famix)."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:14:53.410165+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:15:34.129464+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "nwd7Es+MDQC0c/3zCJOzBw=="
+				},
+				"code" : "\" Shell commands:\r\r$ git clone git@github.com:argouml-tigris-org/argouml.git\r$ cd argouml\rargouml$ git checkout VERSION_0_34\rargouml$ jdt2famix .\r\""
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T11:25:59.245756+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T11:33:50.716963+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "SdFWY86MDQC0Y7jgCJOzBw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Ahora cargamos el fichero MSE generado en el paso anterior para obtener un modelo FAMIX del sistema ArgoUML:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T11:25:50.422238+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:05:36.542941+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "EpkQY86MDQC0YcpiCJOzBw=="
+				},
+				"code" : "modelFile := (FileLocator imageDirectory  / \r\t'models' / 'argouml' / 'argouml.mse') \r\tasFileReference.\nmodel := MooseModel new\n  importMSEFromFile: modelFile.\nmodel"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:15:49.290405+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:16:19.909357+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "wX9yYM6MDQC0YImRCJOzBw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Ahora podemos explorar o realizar queries contra ese modelo del sistema ArgoUML. "
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:16:14.06565+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:16:31.501008+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "oGNCF8+MDQC0dFy+CJOzBw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Por ejemplo, podemos buscar todas las clases anotadas como Deprecated:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:16:36.079683+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:16:36.996282+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "caSZGM+MDQC0dfydCJOzBw=="
+				},
+				"code" : "deprecatedClasses := model allModelClasses select: [:each |\n  each isAnnotatedWith: 'Deprecated' ]."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:25:53.513844+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:26:19.166973+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "MDDAOc+MDQC0hMF3CJOzBw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "De todas las clases Deprecated podemos eliminar directamente todas aquellas que ya no tienen ninguna clase cliente que dependa de ellas:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:26:21.947487+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:26:40.086577+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "jUaFO8+MDQC0hW7QCJOzBw=="
+				},
+				"code" : "nonUsedDeprecatedClasses := deprecatedClasses select: [ :each |\n  each clientTypes isEmpty ]."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:17:48.690225+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:27:04.996259+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "dlqgG8+MDQC0dueUCJOzBw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "De todas las clases Deprecated nos interesa encontrar aquellas que todavia esten siendo utilizadas por otras clases del sistema para planificar el refactoring del sistema con el fin de poder eliminarlas:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:18:16.853384+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:18:25.225759+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "tlObHs+MDQC0d+DBCJOzBw=="
+				},
+				"code" : "stillUsedClasses := deprecatedClasses select: [ :each |\n  each clientTypes isNotEmpty ]."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:19:30.116487+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:20:10.688113+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "htnzIc+MDQC0eN0yCJOzBw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Ademas de las consultas sobre el modelo, podemos representar estos resultados mediante visualizaciones que nos ayuden a entender mejor lo que nos interesa conocer sobre el sistema."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:20:16.718369+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:20:19.447042+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "TlLAJc+MDQC0eRFyCJOzBw=="
+				},
+				"code" : "view := GtMondrian new.\nview nodes \n  with: (stillUsedClasses, \n    (stillUsedClasses flatCollect: #clientTypes)) asSet.\nview layout grid.\nview"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:21:11.395488+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:21:38.042804+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Vq3bKM+MDQC0el/XCJOzBw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Ahora podemos distinguir entre las clases deprecated y sus clases clientes empleando distintos colores para cada nodo:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:21:41.620593+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:21:50.751781+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "09PPKs+MDQC0ezboCJOzBw=="
+				},
+				"code" : "view := GtMondrian new.\nview nodes \n  shape: [ :each |\n    BlElement new \n      size: 5@5;\n      geometry: BlCircleGeometry new;\n      background: ((each isAnnotatedWith: 'Deprecated')\n        ifTrue: [ Color red ]\n        ifFalse: [ Color gray ]) ];\n  with: (stillUsedClasses, \n    (stillUsedClasses flatCollect: #clientTypes)) asSet.\nview layout grid.\nview"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:22:33.694401+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:22:47.614517+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "NLS/Lc+MDQC0fNTkCJOzBw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Podemos mostrar las relaciones entre las clases y sus clientes:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:22:51.082839+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:22:57.337727+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "grzzLs+MDQC0fcr4CJOzBw=="
+				},
+				"code" : "view := GtMondrian new.\nview nodes \n  shape: [ :each |\n    BlElement new \n      size: 5@5;\n      geometry: BlCircleGeometry new;\n      background: ((each isAnnotatedWith: 'Deprecated')\n        ifTrue: [ Color red ]\n        ifFalse: [ Color gray ]) ];\n  with: (stillUsedClasses, \n    (stillUsedClasses flatCollect: #clientTypes)) asSet.\nview edges connectFromAll: #clientTypes.\nview layout grid.\nview"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:23:30.642317+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:24:36.045051+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "oQQHMc+MDQC0fmVxCJOzBw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Podemos utilizar un layout mas apropiado que el grid:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:23:40.803505+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:24:55.800888+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "5GnqMc+MDQC0f/ZLCJOzBw=="
+				},
+				"code" : "view layout force."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:27:44.310997+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:29:19.530506+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "lJUjQM+MDQC0hjPxCJOzBw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Hasta este punto el analisis ha sido de proposito general, pero para obtener resultados de mayor utilidad podemos utilizar la informacion especifica de nuestro contexto. Por ejemplo, conocemos los modulos del sistema, con lo que podemos querer saber cuantas de estas clases corresponden al modulo de UI:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:28:48.647384+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:28:50.711075+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "BL1DRM+MDQC0hyw1CJOzBw=="
+				},
+				"code" : "view := GtMondrian new.\nview nodes \n  shape: [ :each |\n    BlElement new \n      size: 5@5;\n      geometry: BlCircleGeometry new;\n      background: ((each isAnnotatedWith: 'Deprecated')\n        ifTrue: [ Color red ]\n        ifFalse: [ Color gray ]);\n      border: (BlBorder paint: \n        ((each mooseName includesSubstring: '::ui')\n          ifTrue: [ Color blue ]\n          ifFalse: [ Color transparent ])) ];\n  with: (stillUsedClasses, \n    (stillUsedClasses flatCollect: #clientTypes)) asSet.\nview edges connectFromAll: #clientTypes.\nview layout force.\nview"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:30:11.402348+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:30:48.117223+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "0IsNSc+MDQC0iHXKCJOzBw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "O añadir informacion a la visualizacion sobre el numero de metodos de cada una de las clases:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:30:33.609733+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:30:35.764501+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "NVaFSs+MDQC0iUewCJOzBw=="
+				},
+				"code" : "view := GtMondrian new.\nview nodes \n  shape: [ :each |\n    BlElement new \n      size: (each numberOfMethods min: 50) asPoint;\n      geometry: BlCircleGeometry new;\n      background: ((each isAnnotatedWith: 'Deprecated')\n        ifTrue: [ Color red ]\n        ifFalse: [ Color gray ]);\n      border: (BlBorder paint: \n        ((each mooseName includesSubstring: '::ui')\n          ifTrue: [ Color blue ]\n          ifFalse: [ Color transparent ])) ];\n  with: (stillUsedClasses, \n    (stillUsedClasses flatCollect: #clientTypes)) asSet.\nview edges connectFromAll: #clientTypes.\nview layout force\n  strength: 0.15;\n  charge: -250;\n  length: 70.\nview"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:31:16.525081+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:31:43.940066+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "afXoTM+MDQC0ipJsCJOzBw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "No tenemos porque limitar nuestro analisis al nivel de clases, sino que podemos realizar consultas sobre los metodos:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:31:47.385064+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:31:50.358118+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "EA/rTs+MDQC0iwiBCJOzBw=="
+				},
+				"code" : "deprecateMethods := (stillUsedClasses flatCollect: #methods)\n  select: [ :aMethod | aMethod clientTypes notEmpty ].\nclientMethods := (deprecateMethods collect: [ :aMethod | \n  aMethod clientMethods reject: [ :each | \n    each parentType = aMethod parentType ] ]) flatten.\ninterestingMethods := deprecateMethods, clientMethods.\nview := GtMondrian new.\nview nodes \n  shape: [ :each |\n    BlElement new \n      background: ((each isAnnotatedWith: 'Deprecated')\n        ifTrue: [ Color lightRed ]\n        ifFalse: [ Color veryLightGray ]) ];\n  with: (stillUsedClasses, \n    (stillUsedClasses flatCollect: #clientTypes)) asSet;\n  forEach: [ :aClass |\n    view nodes\n      shape: [ :each |\n        BlElement new \n          size: 5@5;\n          background: Color gray ];\n      with:(aClass methods intersection: interestingMethods).\n    view layout grid ].\nview edges connectFromAll: #clientTypes.\nview layout force\n  strength: 0.15;\n  charge: -250;\n  length: 70.\nview"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:33:20.919703+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:33:39.392667+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "D7UBUs+MDQC0jF22CJOzBw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "En este punto podria ser util añadir informacion sobre el numero de metodos que dependen de cada metodo deprecated:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:33:45.263803+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T12:34:09.78567+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "7b7xVc+MDQC0jWV5CJOzBw=="
+				},
+				"code" : "view := GtMondrian new.\nview nodes \n  shape: [ :each |\n    BlElement new \n      padding: (BlInsets all: 2);\n      constraintsDo: [:c | \n     c horizontal fitContent.\n     c vertical fitContent ];\n      background: ((each isAnnotatedWith: 'Deprecated')\n        ifTrue: [ Color lightRed ]\n        ifFalse: [ Color veryLightGray ]) ];\n  with: (stillUsedClasses, \n    (stillUsedClasses flatCollect: #clientTypes)) asSet;\n  forEach: [ :aClass |\n    view nodes\n      shape: [ :each |\n        BlElement new\n          margin: (BlInsets all: 2);\n          geometry: BlCircleGeometry new;\n          size: ((each parentType \n            isAnnotatedWith: 'Deprecated')\n              ifTrue: [ (each clientMethods \n                intersection: clientMethods) size + 5  ]\n              ifFalse: [ 5 ]) asPoint;\n          background: Color gray ];\n      with:(aClass methods intersection: interestingMethods).\n    view layout rectanglePack ].\nview edges connectFromAll: #clientTypes.\nview layout force\n  strength: 0.15;\n  charge: -250;\n  length: 70.\nview"
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2021-11-10T11:23:53.62106+01:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2021-11-10T12:43:47.112535+01:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Clases y metodos Deprecated en un sistema Java"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "86591a5c-ce8c-0d00-b45a-59c00893b307"
+	}
+}
