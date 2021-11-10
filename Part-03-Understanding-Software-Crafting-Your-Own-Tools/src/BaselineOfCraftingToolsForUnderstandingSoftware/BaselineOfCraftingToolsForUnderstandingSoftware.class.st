@@ -1,6 +1,6 @@
 Class {
 	#name : #BaselineOfCraftingToolsForUnderstandingSoftware,
-	#superclass : #Object,
+	#superclass : #BaselineOf,
 	#category : #BaselineOfCraftingToolsForUnderstandingSoftware
 }
 
