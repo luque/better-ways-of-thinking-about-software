@@ -316,7 +316,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-18T16:18:15.211902+01:00"
+						"dateAndTimeString" : "2021-11-18T20:32:46.202899+01:00"
 					}
 				},
 				"uid" : {
@@ -326,7 +326,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Una vez tenemos la vision global vamos a centrarnos en el  [[Analizando los feature toggles]]."
+				"string" : "Una vez tenemos la vision global vamos a centrarnos en el  [[Analizando los feature toggles legacy]]."
 			}
 		]
 	},
