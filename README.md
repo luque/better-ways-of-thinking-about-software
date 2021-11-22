@@ -22,8 +22,6 @@ This is a work in progress. It would be updated as new talks and workshops were 
     baseline: 'CraftingToolsForUnderstandingSoftware';
     load.
 ```
-    
-    * After the loading has completed, you can proceed to load the Lepiter contents evaluating this statement:
    
 ``` smalltalk
     BaselineOfCraftingToolsForUnderstandingSoftware loadLepiter
