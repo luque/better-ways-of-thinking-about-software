@@ -1,0 +1,650 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T13:00:06.801351+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T13:00:08.647051+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "awITGsGNDQC3hcv0AhlkBw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#Creditos"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T13:00:29.892852+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T13:00:29.892852+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "j/PVGsGNDQC3h2kCAhlkBw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Esta presentacion esta basada en la demostracion mostrada por Alexandre Bergel de su trabajo de analisis y visualizacion de software utilizando Roassal en la Universidad de Chile."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T13:00:10.012327+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T13:00:10.012327+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Y0xuGsGNDQC3hjd+AhlkBw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Aqui puedes ver la presentacion original \"Visualizing the quality of critical software in the space industry \":"
+			},
+			{
+				"__type" : "youtubeSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T13:00:39.13218+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T13:00:47.028801+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "SOw7HMGNDQC3iYLrAhlkBw=="
+				},
+				"youtubeUrl" : "https://www.youtube.com/watch?v=5b7ljqwxJog"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T13:00:56.808206+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T13:00:57.577277+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "QpHgG8GNDQC3iDIeAhlkBw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#Demo"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T13:53:22.968646+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T13:54:11.473209+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Hbaxa9CMDQC/Rq9GD6jFvg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Software de vuelo open source desarrollado para el programa de nanosatelites SUCHAI: [https://gitlab.com/spel-uchile/suchai-flight-software/](https://gitlab.com/spel-uchile/suchai-flight-software/)"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T14:03:37.746861+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T14:04:07.384332+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "vsJEl9CMDQC/WVilD6jFvg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Cargamos el proyecto que contiene un sencillo procesador C++ que utilizaremos en el analisis:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T14:00:37.604219+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T14:00:58.581846+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "sL+fjNCMDQC/TPDMD6jFvg=="
+				},
+				"code" : "Metacello new\n    baseline: 'DataStudio';\n    repository: 'github://ObjectProfile/DataStudio';\n    load."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T13:59:37.734602+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T14:00:02.03474+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "sPP/iNCMDQC/SQTAD6jFvg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Creamos un procesador de C++ con el path al codigo fuente del proyecto:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T14:00:08.556107+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T14:09:21.492225+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "dILkitCMDQC/S9MMD6jFvg=="
+				},
+				"code" : "sources := FileLocator imageDirectory / \r\t'models' / 'SUCHAI-Flight-Software'.\np := CPPProcessor new.\np processRootFolder: sources asFileReference.\rp resolveDependencies."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T14:09:38.522037+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T14:09:41.190479+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "mi7NrNCMDQC/jQ8iD6jFvg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Next we will separate modules in driver, os and system and reject some third party libraries:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T14:09:43.834559+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-11T01:51:59.250949+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "4I8urdCMDQC/jp2ED6jFvg=="
+				},
+				"code" : "\"Separate modules in system, drivers and os\"\nallSystemModules := p modules\n    select: [ :m | '*/system*' match: m filename ].\nallDrivers := p modules\n    select: [ :m | '*/drivers/Linux/*' match: m filename ].\nallOs := p modules select: [ :m | '*/os/Linux/*' match: m filename ].\n\n\"Create relevantModules list\"\nrelevantModules := allSystemModules , allDrivers , allOs.\nrelevantModules := relevantModules\n    reject: [ :m | '*/util*' match: m filename ].\nrelevantModules := relevantModules\n    reject: [ :m | '*/globals*' match: m filename ].\nrelevantModules := relevantModules\n    reject: [ :m | '*pthread_queue*' match: m filename ].\rrelevantModules := relevantModules\n    reject: [ :m | '*/test*' match: m filename ].\rrelevantModules\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T14:10:19.330654+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T14:10:21.423753+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "fYDvrtCMDQC/kcrbD6jFvg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Let us create a nice color palette for our plot:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T14:10:24.48154+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T14:10:39.524881+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Msmar9CMDQC/kvKmD6jFvg=="
+				},
+				"code" : "\"Create color palette\"\ncolor1 := Color r: 0.651 g: 0.808 b: 0.89.\ncolor2 := Color r: 0.022 g: 0.471 b: 0.706.\ncolor3 := Color r: 0.698 g: 0.875 b: 0.541.\ncolor4 := Color r: 0.2 g: 0.627 b: 0.173.\ncolor5 := Color r: 0.984 g: 0.604 b: 0.6.\ncolor6 := Color r: 0.89 g: 0.102 b: 0.11.\ncolor7 := Color r: 0.992 g: 0.749 b: 0.435."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T14:10:50.372464+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T14:10:50.372464+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "3BANsdCMDQC/k4dBD6jFvg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "For the next step we will assign the color palette to different modules and create interaction between blocks in the plot.\n"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-10T14:10:54.180914+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-11T14:22:00.220305+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "WfZfsdCMDQC/lPuDD6jFvg=="
+				},
+				"code" : "\"Create a GtMondrian instance\"\rview := GtMondrian new.\nview nodes \n  shape: [ :each |\r    ('*/repo*' match: each filename) ifTrue: [ color := color3 ].\r    ('*/cmd*' match: each filename) ifTrue: [ color := color4 ].    \r    ('*/task*' match: each filename) ifTrue: [ color := color5 ].    \r    ('*/drivers*' match: each filename) ifTrue: [ color := color1 ].\r    ('*/main*' match: each filename) ifTrue: [ color := color2 ].    \r    ('*Dispatcher*' match: each filename) ifTrue: [ color := color7 ].\r    ('*Executer*' match: each filename) ifTrue: [ color := color6 ].\r  \n    BlElement new \n      size: 5@5;\n      geometry: BlRectangleGeometry new;\r      width:  (each dependentModules size + 1) * 20 * 0.6;\n      height: each loc * 0.6;\n      background: color ];\n  with: relevantModules.\rview edges \r\tshape: [ :x | \r\t\t\tBlLineElement new\r\t\t\t\tborder: (BlBorder paint: (Color lightGray alpha: 0.5) width:3);\r\t\t\t\ttoHead: (BlArrowheadSimpleArrow new\r\t\t\tarrowNoseAngle: 60;\r\t\t\tarrowLengthFraction: 5;\r\t\t\tborder: (BlBorder paint: Color lightGray width: 2)). ];\r\tconnectToAll: #dependentModules.\rview layout grid.\rview\r   \r\" Version Roassal \"\r\"\r\nb := RTMondrian new.\nb interaction popupText: #suchaiDisplayName.\n\n\nb shape rectangle\n    color: Color darkGray;\n    width: [ :module | (module outgoingHeaders size + 1) * 20 * 0.6 ];\n    height: [ :module | module loc * 0.6 ];\n    if: [ :f | '*/repo*' match: f filename ] color: color3;\n    if: [ :f | '*/cmd*' match: f filename ] color: color4;\n    if: [ :f | '*/task*' match: f filename ] color: color5;\n    if: [ :f | '*/drivers*' match: f filename ] color: color1;\n    if: [ :f | '*/main*' match: f filename ] color: color2;\n    if: [ :f | '*Dispatcher*' match: f filename ] color: color7;\n    if: [ :f | '*Executer*' match: f filename ] color: color6;\n    if: [ :f | ('*/task*' match: f filename) and: [ f dependOn: '*/cmd*' ] ]\n        borderColor: Color red.\n        \n\nb interaction showEdge\n    connectToAll: #dependentModules;\n    shape: (RTArrowedLine new\n        withVerticallAttachPoint;\n        color: (Color orange alpha: 0.7);\n        width: 6).\nb interaction\n    highlightNeighbors: #dependentModules\n    color: Color orange.\nb nodes: relevantModules.\nb shape arrowedLine\n    headOffset: 0.8;\n    withVerticallAttachPoint;\n    color: (Color black alpha: 0.7);\n    width: 2.\nb edges\n    moveBehind;\n    connectToAll: #dependentModules.\nb layout sugiyama\n    verticalGap: 50;\n    horizontalGap: 25.\nb build.\"\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-12T11:42:02.75054+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-12T11:43:04.032493+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "bCI01/aMDQCJ3tOfBYMFgg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Se pueden publicar las visualizaciones de la arquitectura para cada version del sistema para poder estudiar su evolucion temporal. Por ejemplo: [https://data.spel.cl/](https://data.spel.cl/)"
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2021-11-10T13:51:25.094948+01:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2021-11-10T13:53:01.533125+01:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Seguimiento de la arquitectura del sistema de vuelo SUCHAI"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "c01fb16b-d08c-0d00-bf45-2fbf0fa8c5be"
+	}
+}

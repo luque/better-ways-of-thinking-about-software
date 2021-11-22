@@ -1,0 +1,437 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T16:14:28.514753+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T19:55:03.925677+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "n/EnR3ONDQCgq3ISApUb5A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "La documentacion sobre decisiones de diseño del proyecto Open edX describe la obligacion de migrar los flags legacy a unos formatos nuevos."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T16:14:58.413378+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T19:56:18.31163+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "77G6WnONDQCgt5YlApUb5A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Vamos a intentar destacar todos aquellos ficheros que contengan alguna referencia a un toggle en formato antiguo en la anterior visualizacion del sistema."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T16:15:37.560688+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T19:58:53.769526+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "dzAkXHONDQCguSPoApUb5A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Para realizar una consulta como esta necesitaremos una capacidad de parseo detallado. Glamorous Toolkit incluye un parseador Python que podemos utilizar para generar Abstract Syntax Trees (ASTs) de cada fichero del proyecto:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T16:15:54.769727+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T16:16:09.215055+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "bt0sX3ONDQCgvpeUApUb5A=="
+				},
+				"code" : "asts := (PythonParser sourceFilesIn: Gt4EdxGlobals rootDirectory) collect: [:each | \n\t(PythonParser parseWithErrors: each contents) \n\t\tfilename: each pathString; \n\t\tyourself] "
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T16:17:13.91844+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T20:11:55.52151+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "FTbYY3ONDQCgwAC5ApUb5A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Ahora, una vez que tenemos los ASTs podemos detectar aquellos imports de los toggle legacy:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T16:17:31.451627+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T16:17:32.378339+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Gx3wZHONDQCgxfxDApUb5A=="
+				},
+				"code" : "detectedAsts := asts \n\tinject: OrderedCollection new \n\tinto: [:sum :each | \n\t\teach allNodesOfType: PyImportNode do: [:node | \n\t\t\t(node names anySatisfy: [:name | \n\t\t\t\t#('LegacyWaffleFlag' 'LegacyWaffleSwitch' 'CourseWaffleFlag') includes: name source]) \n\t\t\t\tifTrue: [sum add: node]].\n\t\t\tsum ]"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T20:12:05.31598+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T20:12:33.08159+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "RS2pq3aNDQCWeg3hB/d2dA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Podemos actualizar la visualizacion previa para mostrar esta informacion mas especifica que hemos obtenido:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T20:12:36.446481+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T20:16:15.000736+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "NUGprXaNDQCWfLzJB/d2dA=="
+				},
+				"code" : "filesWithLegacyToggles := detectedAsts collect: [:each | each topParent filename ].GtNestedRectangleTreeMap new\r\ttree: Gt4EdxGlobals rootDirectory;\r\tdeep: #directories;\r\tleaves: [ :anItem | anItem files select: [:each | each extension = 'py']];\r\tcontainerElement: [ :anElement :aNodeContext | \r\t\t| label scaledLabel |\r\t\taNodeContext level = 2 ifTrue: [\r\t\t\tlabel := BlTextElement new \r\t\t\t\ttext: (aNodeContext model basename asRopedText\r\t\t\t\t\t\t\tglamorousRegularFont;\r\t\t\t\t\t\t\tbold;\r\t\t\t\t\t\t\tforeground: (Color black alpha: 0.6)).\r\t\t\tscaledLabel := label asScalableElement \r\t\t\t\tzIndex: 10; \r\t\t\t\tconstraintsDo: [:c | \r\t\t\t\t\tc horizontal matchParent. \r\t\t\t\t\tc vertical matchParent. \r\t\t\t\t\tc ignoreByLayout.\r\t\t\t\t\tc ignored horizontal weight: 0.2.\r\t\t\t\t\tc ignored horizontal alignCenter].\r\t\t\tanElement addChild: scaledLabel].\r\t\tanElement border: (BlBorder \r\t\t\tpaint: (Color black alpha: 0.5 / aNodeContext level) \r\t\t\twidth: 2).\r\t\tanElement padding: (BlInsets all: 2) ];\r\tleafElement: [ :anElement :aLeafContext | \r\t\t(filesWithLegacyToggles includes: aLeafContext model fullName) \r\t\t\tifTrue: [ anElement background: Color red ] \r\t\t\tifFalse: [\r\t\t\t\tanElement background: Color white ] ]"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T20:23:17.419795+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T20:29:40.273791+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Tw/J03aNDQCWgpCtB/d2dA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "El proyecto [edx-lint](https://github.com/edx/edx-lint) contiene un [script Pylint](https://github.com/edx/edx-lint/blob/master/edx_lint/pylint/annotations_check.py) para comprobar este tipo de legacy toggles."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T20:21:20.825861+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T20:22:09.615129+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "U87UzHaNDQCWflg2B/d2dA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Compare this with the Pylint script mentioned above. From the end query perspective, the result can look similar. But, the key difference is in how the query was created. **We created our query as a way to learn about the system** while we were learning about the system. It was one of many, and this one just proved more useful than others. The outcome can look similar in this case, but the process is not. **This behavior is possible because the cost of creating and evolving a query or a visualization is so low**, often measured in minutes."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T20:22:38.080249+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T20:22:38.080249+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "dV520XaNDQCWgOYyB/d2dA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "We maintain that every problem in software contains a data problem that should be explored through such custom tools, and without reading (much) code."
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2021-11-18T16:09:11.749856+01:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2021-11-18T16:18:15.209319+01:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Analizando los feature toggles"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "91442747-738d-0d00-a0aa-d33102951be4"
+	}
+}
