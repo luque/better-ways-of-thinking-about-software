@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T11:32:38.865978+01:00"
+						"dateAndTimeString" : "2021-11-19T12:00:57.071231+01:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:13:32.029287+01:00"
+						"dateAndTimeString" : "2021-11-19T12:01:01.79284+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "qmhZe86MDQC0ZJE+CJOzBw=="
+					"uidString" : "ZoMd7YONDQCQ8m8tCrKxag=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[ArgoUML](https://en.wikipedia.org/wiki/ArgoUML) es una herramienta open source para crear diagramas UML desarrollada en Java. La [version 0.34](https://github.com/argouml-tigris-org/argouml/releases/tag/VERSION_0_34) que vamos a utilizar consta de unas 2.400 clases y 200 KLoC."
+				"string" : "##Problema de seguridad"
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T11:53:20.836537+01:00"
+						"dateAndTimeString" : "2021-11-19T11:54:28.972756+01:00"
 					}
 				},
 				"editEmail" : {
@@ -66,51 +66,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T11:54:58.709835+01:00"
+						"dateAndTimeString" : "2021-11-19T11:55:00.127579+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "Tahjxc6MDQC0ZbO2CJOzBw=="
+					"uidString" : "/zbS0oONDQCQ6uEICrKxag=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Una vez descargados los fuentes del proyecto vamos a proceder a generar un modelo MSE del sistema utilizando la herramienta [jdt2famix]( https://github.com/feenkcom/jdt2famix)."
-			},
-			{
-				"__type" : "pharoSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:14:53.410165+01:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:15:34.129464+01:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "nwd7Es+MDQC0c/3zCJOzBw=="
-				},
-				"code" : "\" Shell commands:\r\r$ git clone git@github.com:argouml-tigris-org/argouml.git\r$ cd argouml\rargouml$ git checkout VERSION_0_34\rargouml$ jdt2famix .\r\""
+				"string" : "El entorno de ejecucion serverless de AWS Lambda es susceptible de que se produzcan fugas de informacion no deseadas."
 			},
 			{
 				"__type" : "pictureSnippet",
@@ -126,7 +92,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-19T11:14:33.245852+01:00"
+						"dateAndTimeString" : "2021-11-19T11:55:05.051634+01:00"
 					}
 				},
 				"editEmail" : {
@@ -137,14 +103,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-19T11:14:34.544358+01:00"
+						"dateAndTimeString" : "2021-11-19T11:56:51.535405+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "zBRGR4ONDQCQyJL3CrKxag=="
+					"uidString" : "F3442IONDQCQ6wraCrKxag=="
 				},
-				"url" : "https://raw.githubusercontent.com/feenkcom/jdt2famix/master/doc/jdt2famix.png"
+				"url" : "attachments/6be8yycappliyu1ubyt2q6y2y/SecurityOverviewAWSLambda.png"
 			},
 			{
 				"__type" : "textSnippet",
@@ -160,7 +126,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T11:25:59.245756+01:00"
+						"dateAndTimeString" : "2021-11-19T11:58:39.49812+01:00"
 					}
 				},
 				"editEmail" : {
@@ -171,17 +137,165 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-19T11:13:58.042363+01:00"
+						"dateAndTimeString" : "2021-11-19T11:58:43.750094+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "SdFWY86MDQC0Y7jgCJOzBw=="
+					"uidString" : "AqsA5YONDQCQ7itNCrKxag=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Ahora cargamos el fichero MSE generado en el paso anterior para obtener un modelo FAMIX del sistema ArgoUML (tarda unos instantes):"
+				"string" : "*Execution environments are never reused across different function versions or customers, but a single environment can be reused between invocations of the same function version. This means data and state can persist between invocations. Data and/or state may continue to persist for hours before it is destroyed as a part of normal execution environment lifecycle management*"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-19T11:57:31.358917+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-19T11:59:13.582008+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "/ZAq34ONDQCQ7aJfCrKxag=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "*Inside an execution environment, these multiple invocations are handled by a single process, so any process-wide state (such as a static state in Java) can be available for future invocations to reuse, if the invocation occurs on a reused execution environment.*"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-19T12:00:26.355939+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T11:48:17.735273+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "US9f64ONDQCQ8GPFCrKxag=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "*If customers want to actively prevent data or state leaking across invocations, Lambda recommends that they create distinct functions for each state. Lambda does not recommend that customers use or store security sensitive state into the execution environment, as it may be mutated between invocations. We recommend recalculating the state on each invocation instead.*"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-19T12:00:35.810047+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-19T12:00:50.253761+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "R7ZM54ONDQCQ7/UwCrKxag=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "##Analisis de fugas de estado"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-19T00:22:06.274294+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-19T00:22:39.945817+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Y1KQKXqNDQCXEVaUB/d2dA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Importamos el modelo FAMIX en formato MSE que hemos generado a partir del codigo fuente del proyecto BBVA-ATS-Forms:"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -197,7 +311,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T11:25:50.422238+01:00"
+						"dateAndTimeString" : "2021-11-19T00:22:44.625302+01:00"
 					}
 				},
 				"editEmail" : {
@@ -208,14 +322,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T13:43:06.600488+01:00"
+						"dateAndTimeString" : "2021-11-19T00:30:32.892416+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "EpkQY86MDQC0YcpiCJOzBw=="
+					"uidString" : "xOM3LHqNDQCXEi22B/d2dA=="
 				},
-				"code" : "modelFile := (FileLocator imageDirectory  / \r\t'models' / 'argouml' / 'argouml.mse') \r\tasFileReference.\nmodel := MooseModel new\n  importMSEFromFile: modelFile.\nmodel"
+				"code" : "modelFile := FileLocator imageDirectory /\r\t'models' /\n\t'BBVA-ATS-Forms' /\n\t'BBVA-ATS-Forms.mse'."
 			},
 			{
 				"__type" : "textSnippet",
@@ -231,7 +345,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:15:49.290405+01:00"
+						"dateAndTimeString" : "2021-11-19T00:30:45.831272+01:00"
 					}
 				},
 				"editEmail" : {
@@ -242,54 +356,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:16:19.909357+01:00"
+						"dateAndTimeString" : "2021-11-19T00:32:19.958234+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "wX9yYM6MDQC0YImRCJOzBw=="
+					"uidString" : "GXp0R3qNDQCXE0hiB/d2dA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Ahora podemos explorar o realizar queries contra ese modelo del sistema ArgoUML. "
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:16:14.06565+01:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:16:31.501008+01:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "oGNCF8+MDQC0dFy+CJOzBw=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "Por ejemplo, podemos buscar todas las clases anotadas como Deprecated:"
+				"string" : "Ahora podemos crear un modelo del codigo de BBVA-ATS-Forms usando la plataforma de analisis de datos y de software [Moose](http://moosetechnology.org):"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -305,7 +382,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:16:36.079683+01:00"
+						"dateAndTimeString" : "2021-11-19T00:31:50.993174+01:00"
 					}
 				},
 				"editEmail" : {
@@ -316,14 +393,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:16:36.996282+01:00"
+						"dateAndTimeString" : "2021-11-19T00:32:28.467956+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "caSZGM+MDQC0dfydCJOzBw=="
+					"uidString" : "Wc3ITHqNDQCXFEclB/d2dA=="
 				},
-				"code" : "deprecatedClasses := model allModelClasses select: [:each |\n  each isAnnotatedWith: 'Deprecated' ]."
+				"code" : "model := MooseModel new importMSEFromFile:modelFile."
 			},
 			{
 				"__type" : "textSnippet",
@@ -339,7 +416,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:25:53.513844+01:00"
+						"dateAndTimeString" : "2021-11-19T00:38:42.524209+01:00"
 					}
 				},
 				"editEmail" : {
@@ -350,51 +427,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:26:19.166973+01:00"
+						"dateAndTimeString" : "2021-11-19T00:38:42.524209+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "MDDAOc+MDQC0hMF3CJOzBw=="
+					"uidString" : "zztQZXqNDQCXFqtuB/d2dA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "De todas las clases Deprecated podemos eliminar directamente todas aquellas que ya no tienen ninguna clase cliente que dependa de ellas:"
-			},
-			{
-				"__type" : "pharoSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:26:21.947487+01:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:26:40.086577+01:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "jUaFO8+MDQC0hW7QCJOzBw=="
-				},
-				"code" : "nonUsedDeprecatedClasses := deprecatedClasses select: [ :each |\n  each clientTypes isEmpty ]."
+				"string" : "Una vez que disponemos de la instancia del modelo, es facil realizar consultas que respondan a nuestras cuestiones sobre el codigo. "
 			},
 			{
 				"__type" : "textSnippet",
@@ -410,7 +453,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:17:48.690225+01:00"
+						"dateAndTimeString" : "2021-11-19T00:37:38.325459+01:00"
 					}
 				},
 				"editEmail" : {
@@ -421,17 +464,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:27:04.996259+01:00"
+						"dateAndTimeString" : "2021-11-19T00:39:32.260762+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "dlqgG8+MDQC0dueUCJOzBw=="
+					"uidString" : "IHaaXnqNDQCXFQ7sB/d2dA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "De todas las clases Deprecated nos interesa encontrar aquellas que todavia esten siendo utilizadas por otras clases del sistema para planificar el refactoring del sistema con el fin de poder eliminarlas:"
+				"string" : "Por ejemplo, podemos encontrar todas las funciones lambda definidas en el proyecto:"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -447,7 +490,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:18:16.853384+01:00"
+						"dateAndTimeString" : "2021-11-19T00:39:36.636571+01:00"
 					}
 				},
 				"editEmail" : {
@@ -458,14 +501,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:18:25.225759+01:00"
+						"dateAndTimeString" : "2021-11-19T00:39:42.254234+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "tlObHs+MDQC0d+DBCJOzBw=="
+					"uidString" : "v/SJaHqNDQCXF9+hB/d2dA=="
 				},
-				"code" : "stillUsedClasses := deprecatedClasses select: [ :each |\n  each clientTypes isNotEmpty ]."
+				"code" : "requestHandler := model allClasses detect: [ :each | \n\teach mooseName = 'com::amazonaws::services::lambda::runtime::RequestHandler' \n]."
 			},
 			{
 				"__type" : "textSnippet",
@@ -481,7 +524,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:19:30.116487+01:00"
+						"dateAndTimeString" : "2021-11-19T01:02:01.57483+01:00"
 					}
 				},
 				"editEmail" : {
@@ -492,17 +535,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:20:10.688113+01:00"
+						"dateAndTimeString" : "2021-11-19T01:02:23.69598+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "htnzIc+MDQC0eN0yCJOzBw=="
+					"uidString" : "4tGCuHqNDQCXJK8EB/d2dA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Ademas de las consultas sobre el modelo, podemos representar estos resultados mediante visualizaciones que nos ayuden a entender mejor lo que nos interesa conocer sobre el sistema."
+				"string" : "Encontramos las lambdas como las clases que implementan la interfaz RequestHandler:"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -518,7 +561,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:20:16.718369+01:00"
+						"dateAndTimeString" : "2021-11-19T00:46:33.945188+01:00"
 					}
 				},
 				"editEmail" : {
@@ -529,14 +572,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:20:19.447042+01:00"
+						"dateAndTimeString" : "2021-11-19T00:46:38.777305+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "TlLAJc+MDQC0eRFyCJOzBw=="
+					"uidString" : "jJRpgXqNDQCXHogXB/d2dA=="
 				},
-				"code" : "view := GtMondrian new.\nview nodes \n  with: (stillUsedClasses, \n    (stillUsedClasses flatCollect: #clientTypes)) asSet.\nview layout grid.\nview"
+				"code" : "lambdas := requestHandler parameterizedTypes flatCollect: [ :each | \n\t(each query: #in with: FAMIXInheritance) opposites ]."
 			},
 			{
 				"__type" : "textSnippet",
@@ -552,7 +595,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:21:11.395488+01:00"
+						"dateAndTimeString" : "2021-11-19T01:02:45.952756+01:00"
 					}
 				},
 				"editEmail" : {
@@ -563,17 +606,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:21:38.042804+01:00"
+						"dateAndTimeString" : "2021-11-19T01:03:02.151274+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "Vq3bKM+MDQC0el/XCJOzBw=="
+					"uidString" : "zXbXt3qNDQCXIxVCB/d2dA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Ahora podemos distinguir entre las clases deprecated y sus clases clientes empleando distintos colores para cada nodo:"
+				"string" : "Para una lambda concreta podemos encontrar su metodo de entrada:"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -589,7 +632,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:21:41.620593+01:00"
+						"dateAndTimeString" : "2021-11-19T01:02:32.151776+01:00"
 					}
 				},
 				"editEmail" : {
@@ -600,14 +643,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:21:50.751781+01:00"
+						"dateAndTimeString" : "2021-11-19T01:03:08.738382+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "09PPKs+MDQC0ezboCJOzBw=="
+					"uidString" : "BaeGunqNDQCXJW6ZB/d2dA=="
 				},
-				"code" : "view := GtMondrian new.\nview nodes \n  shape: [ :each |\n    BlElement new \n      size: 5@5;\n      geometry: BlCircleGeometry new;\n      background: ((each isAnnotatedWith: 'Deprecated')\n        ifTrue: [ Color red ]\n        ifFalse: [ Color gray ]) ];\n  with: (stillUsedClasses, \n    (stillUsedClasses flatCollect: #clientTypes)) asSet.\nview layout grid.\nview"
+				"code" : "aLambda := lambdas detect: [ :each | \n\teach name = 'VerifyEmailTokenApiGatewayAdapter' ].\nentryMethod := aLambda methods detect: [ :each | each name = 'handleRequest' ]."
 			},
 			{
 				"__type" : "textSnippet",
@@ -623,7 +666,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:22:33.694401+01:00"
+						"dateAndTimeString" : "2021-11-19T01:03:48.616954+01:00"
 					}
 				},
 				"editEmail" : {
@@ -634,17 +677,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:22:47.614517+01:00"
+						"dateAndTimeString" : "2021-11-19T01:04:08.739747+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "NLS/Lc+MDQC0fNTkCJOzBw=="
+					"uidString" : "9xLOvnqNDQCXKEHlB/d2dA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Podemos mostrar las relaciones entre las clases y sus clientes:"
+				"string" : "Para este metodo de entrada construiremos el camino de ejecucion:"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -660,7 +703,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:22:51.082839+01:00"
+						"dateAndTimeString" : "2021-11-19T01:04:11.446948+01:00"
 					}
 				},
 				"editEmail" : {
@@ -671,14 +714,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:22:57.337727+01:00"
+						"dateAndTimeString" : "2021-11-19T01:04:24.346388+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "grzzLs+MDQC0fcr4CJOzBw=="
+					"uidString" : "x8ZxwHqNDQCXKTwxB/d2dA=="
 				},
-				"code" : "view := GtMondrian new.\nview nodes \n  shape: [ :each |\n    BlElement new \n      size: 5@5;\n      geometry: BlCircleGeometry new;\n      background: ((each isAnnotatedWith: 'Deprecated')\n        ifTrue: [ Color red ]\n        ifFalse: [ Color gray ]) ];\n  with: (stillUsedClasses, \n    (stillUsedClasses flatCollect: #clientTypes)) asSet.\nview edges connectFromAll: #clientTypes.\nview layout grid.\nview"
+				"code" : "path := OrderedCollection with: entryMethod.\nallInvokedMethods := Set new.\n\n[ path isNotEmpty] whileTrue: [\n\t| method |\n\tmethod := path removeFirst.\n\t(method parentType container mooseName beginsWith: 'es::osoco::bbva') ifTrue: [\n\tallInvokedMethods add: method. \n\tpath addAll: (method invokedMethods select: [ :each |\n\t\t(allInvokedMethods includes: each) not ]).\n\t\t]\n].\n\nmethods := allInvokedMethods asOrderedCollection."
 			},
 			{
 				"__type" : "textSnippet",
@@ -694,7 +737,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:23:30.642317+01:00"
+						"dateAndTimeString" : "2021-11-19T01:06:43.784926+01:00"
 					}
 				},
 				"editEmail" : {
@@ -705,17 +748,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:24:36.045051+01:00"
+						"dateAndTimeString" : "2021-11-19T01:07:34.074402+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "oQQHMc+MDQC0fmVxCJOzBw=="
+					"uidString" : "W2ETx3qNDQCXKu0BB/d2dA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Podemos utilizar un layout mas apropiado que el grid:"
+				"string" : "Podemos consultar todos los atributos accedidos en el codigo de un metodo. Por ejemplo, en el caso del metodo de entrada de la lambda obtenido anteriormente:"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -731,7 +774,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:23:40.803505+01:00"
+						"dateAndTimeString" : "2021-11-19T01:07:27.437219+01:00"
 					}
 				},
 				"editEmail" : {
@@ -742,14 +785,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:24:55.800888+01:00"
+						"dateAndTimeString" : "2021-11-19T01:07:43.234235+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "5GnqMc+MDQC0f/ZLCJOzBw=="
+					"uidString" : "x1kgzHqNDQCXK+izB/d2dA=="
 				},
-				"code" : "view layout force."
+				"code" : "entryMethodAttributes := \n\t(entryMethod query: #out with: FAMIXAccess) \n\t\topposites atScope: FAMIXAttribute."
 			},
 			{
 				"__type" : "textSnippet",
@@ -765,7 +808,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:27:44.310997+01:00"
+						"dateAndTimeString" : "2021-11-19T01:09:06.324322+01:00"
 					}
 				},
 				"editEmail" : {
@@ -776,17 +819,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:29:19.530506+01:00"
+						"dateAndTimeString" : "2021-11-19T01:09:40.932334+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "lJUjQM+MDQC0hjPxCJOzBw=="
+					"uidString" : "5lTE0XqNDQCXLjfbB/d2dA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Hasta este punto el analisis ha sido de proposito general, pero para obtener resultados de mayor utilidad podemos utilizar la informacion especifica de nuestro contexto. Por ejemplo, conocemos los modulos del sistema, con lo que podemos querer saber cuantas de estas clases corresponden al modulo de UI:"
+				"string" : "La misma consulta permite obtener los atributos accedidos por todos los metodos invocados por la lambda:"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -802,7 +845,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:28:48.647384+01:00"
+						"dateAndTimeString" : "2021-11-19T01:09:45.007941+01:00"
 					}
 				},
 				"editEmail" : {
@@ -813,14 +856,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:28:50.711075+01:00"
+						"dateAndTimeString" : "2021-11-19T01:11:45.440085+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "BL1DRM+MDQC0hyw1CJOzBw=="
+					"uidString" : "aINT1HqNDQCXLxdNB/d2dA=="
 				},
-				"code" : "view := GtMondrian new.\nview nodes \n  shape: [ :each |\n    BlElement new \n      size: 5@5;\n      geometry: BlCircleGeometry new;\n      background: ((each isAnnotatedWith: 'Deprecated')\n        ifTrue: [ Color red ]\n        ifFalse: [ Color gray ]);\n      border: (BlBorder paint: \n        ((each mooseName includesSubstring: '::ui')\n          ifTrue: [ Color blue ]\n          ifFalse: [ Color transparent ])) ];\n  with: (stillUsedClasses, \n    (stillUsedClasses flatCollect: #clientTypes)) asSet.\nview edges connectFromAll: #clientTypes.\nview layout force.\nview"
+				"code" : "allAccessedAttributes := Set new.\nmethods inject: allAccessedAttributes into: [ :attributes :method |\n\tattributes addAll: ((method query: #out with: FAMIXAccess) \n\t\topposites atScope: FAMIXAttribute).\n\tattributes]"
 			},
 			{
 				"__type" : "textSnippet",
@@ -836,7 +879,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:30:11.402348+01:00"
+						"dateAndTimeString" : "2021-11-19T01:10:48.710968+01:00"
 					}
 				},
 				"editEmail" : {
@@ -847,17 +890,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:30:48.117223+01:00"
+						"dateAndTimeString" : "2021-11-19T01:11:23.125808+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "0IsNSc+MDQC0iHXKCJOzBw=="
+					"uidString" : "YT2413qNDQCXMNCuB/d2dA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "O añadir informacion a la visualizacion sobre el numero de metodos de cada una de las clases:"
+				"string" : "De todos estos atributos accedidos podemos seleccionar aquellos que no sean inicializados explicitamente en el codigo:"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -873,7 +916,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:30:33.609733+01:00"
+						"dateAndTimeString" : "2021-11-19T01:11:26.28821+01:00"
 					}
 				},
 				"editEmail" : {
@@ -884,14 +927,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:30:35.764501+01:00"
+						"dateAndTimeString" : "2021-11-19T01:12:10.500569+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "NVaFSs+MDQC0iUewCJOzBw=="
+					"uidString" : "d+1c2nqNDQCXMXMWB/d2dA=="
 				},
-				"code" : "view := GtMondrian new.\nview nodes \n  shape: [ :each |\n    BlElement new \n      size: (each numberOfMethods min: 50) asPoint;\n      geometry: BlCircleGeometry new;\n      background: ((each isAnnotatedWith: 'Deprecated')\n        ifTrue: [ Color red ]\n        ifFalse: [ Color gray ]);\n      border: (BlBorder paint: \n        ((each mooseName includesSubstring: '::ui')\n          ifTrue: [ Color blue ]\n          ifFalse: [ Color transparent ])) ];\n  with: (stillUsedClasses, \n    (stillUsedClasses flatCollect: #clientTypes)) asSet.\nview edges connectFromAll: #clientTypes.\nview layout force\n  strength: 0.15;\n  charge: -250;\n  length: 70.\nview"
+				"code" : "nonInitializedAttributes := allAccessedAttributes select:[:attribute | \n\t(attribute incomingAccesses select: [:access | \n\t\tallInvokedMethods includes: access accessor]) allSatisfy: [ :x |\n\t\t\tx isWrite not ]\t\t\t\n]"
 			},
 			{
 				"__type" : "textSnippet",
@@ -907,7 +950,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:31:16.525081+01:00"
+						"dateAndTimeString" : "2021-11-19T01:13:30.842306+01:00"
 					}
 				},
 				"editEmail" : {
@@ -918,17 +961,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:31:43.940066+01:00"
+						"dateAndTimeString" : "2021-11-19T01:14:39.054356+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "afXoTM+MDQC0ipJsCJOzBw=="
+					"uidString" : "O27o4HqNDQCXNHnFB/d2dA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "No tenemos porque limitar nuestro analisis al nivel de clases, sino que podemos realizar consultas sobre los metodos:"
+				"string" : "Podemos utilizar Mondrian de Roassal para crear facilmente una visualizacion que muestre todos los atributos en los que potencialmente pueden producirse fugas de estado entre diferentes ejecuciones de una lambda:"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -944,7 +987,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:31:47.385064+01:00"
+						"dateAndTimeString" : "2021-11-19T01:14:42.210836+01:00"
 					}
 				},
 				"editEmail" : {
@@ -955,14 +998,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:31:50.358118+01:00"
+						"dateAndTimeString" : "2021-11-19T01:28:21.67308+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "EA/rTs+MDQC0iwiBCJOzBw=="
+					"uidString" : "O3gK5nqNDQCXNar4B/d2dA=="
 				},
-				"code" : "deprecateMethods := (stillUsedClasses flatCollect: #methods)\n  select: [ :aMethod | aMethod clientTypes notEmpty ].\nclientMethods := (deprecateMethods collect: [ :aMethod | \n  aMethod clientMethods reject: [ :each | \n    each parentType = aMethod parentType ] ]) flatten.\ninterestingMethods := deprecateMethods, clientMethods.\nview := GtMondrian new.\nview nodes \n  shape: [ :each |\n    BlElement new \n      background: ((each isAnnotatedWith: 'Deprecated')\n        ifTrue: [ Color lightRed ]\n        ifFalse: [ Color veryLightGray ]) ];\n  with: (stillUsedClasses, \n    (stillUsedClasses flatCollect: #clientTypes)) asSet;\n  forEach: [ :aClass |\n    view nodes\n      shape: [ :each |\n        BlElement new \n          size: 5@5;\n          background: Color gray ];\n      with:(aClass methods intersection: interestingMethods).\n    view layout grid ].\nview edges connectFromAll: #clientTypes.\nview layout force\n  strength: 0.15;\n  charge: -250;\n  length: 70.\nview"
+				"code" : "view := GtMondrian new.\n\nview nodes \n\tshape: [ :each |\n\t\t| element |\n\t\telement := BlElement new\n\t\t\tsize: 15@15;\n\t\t\tgeometry: BlCircleGeometry new;\n\t\t\tborder: (BlBorder paint: (Color blue alpha: 0.4) width: 2).\n\t\telement background: (each accesses detect: [ :access | \n\t\t\tnonInitializedAttributes includes: access variable ]\n\t\t\t\tifFound: [ Color lightRed ] \n\t\t\t\tifNone: [Color lightGreen]); \n\t\tyourself.\n\t];\n\twith: methods.\n\nview nodes \n\tshape: [ :each |\n\t\tBlElement new\n\t\t\tsize: 9@9;\n\t\t\tgeometry: (each hasClassScope \n\t\t\t\tifTrue: [BlPolygon vertices: { 0@5 . 5@0 . 10@5 . 5@10 }] \n\t\t\t\tifFalse: [ BlSquare new]);\n\t\t\tbackground: ((each incomingAccesses select: [:access | allInvokedMethods includes: access accessor ]) \n\t\t\t\tdetect: [:anAccess | anAccess isWrite ] \n\t\t\t\tifFound: [ Color lightGreen] \n\t\t\t\tifNone: [ Color lightRed])\n\t];\n\twith: allAccessedAttributes.\r\t\rview edges \n\tfromNearestTightCircle;\n\ttoNearestTightCircle;\n\tshape: [:x | \n\t\tBlLineElement new\n\t\t\tborder: (BlBorder paint: (Color blue alpha: 0.4) width: 2);\n\t\t\ttoHead: (BlArrowheadSimpleArrow new\n\t\t\t\tarrowLengthFraction: 5;\n\t\t\t\tarrowNoseAngle: 60;\n\t\t\t\tborder: (BlBorder paint: (Color blue alpha: 0.4) width: 1))\n\t];\n\tconnect: methods fromAll: [ :each |  each invokingMethods ].\n\t\n\t\t\nview edges \n\tfromNearestTightCircle;\n\ttoNearestTightCircle;\n\tshape: [:x | \n\t\tBlLineElement new\n\t\t\tborder: (BlBorder paint: (Color lightGray) width: 3)\n\t];\n\tconnect: allAccessedAttributes fromAll: [ :each | \n\t\teach incomingAccesses \n\t\t\tselect: [:anAccess | anAccess isWrite not ] thenCollect: [ :a | a accessor ]\n\t].\n\t\t\nview edges \n\tfromNearestTightCircle;\n\ttoNearestTightCircle;\n\tshape: [:x | \n\t\tBlLineElement new\n\t\t\tborder: (BlBorder paint: (Color lightGreen) width: 3)\n\t];\n\tconnect: allAccessedAttributes fromAll: [ :each | \n\t\teach incomingAccesses \n\t\t\tselect: [:anAccess | anAccess isWrite ] thenCollect: [ :a | a accessor ] ].\n\nview layout tree \n\tnodeDistance: 5;\n\tlevelDistance: 20.\n\nview"
 			},
 			{
 				"__type" : "textSnippet",
@@ -978,7 +1021,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:33:20.919703+01:00"
+						"dateAndTimeString" : "2021-11-19T12:23:59.414464+01:00"
 					}
 				},
 				"editEmail" : {
@@ -989,17 +1032,165 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:33:39.392667+01:00"
+						"dateAndTimeString" : "2021-11-19T12:24:04.719784+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "D7UBUs+MDQC0jF22CJOzBw=="
+					"uidString" : "EnBTP4SNDQCkMNjEC+jHbQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "En este punto podria ser util añadir informacion sobre el numero de metodos que dependen de cada metodo deprecated:"
+				"string" : "##Moldable Tools"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-19T12:24:09.480183+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-19T12:25:11.680708+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "YHD4P4SNDQCkMVAdC+jHbQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Ahora podriamos estar interesados en incorporar esta visuaizacion rapida como una herramienta mas permanente a nuestro entorno, para lo cual utilizamos la capacidad *moldeable* que tienen las herramientas de este entorno de analisis."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-19T12:25:52.502481+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T11:57:52.327814+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "B1ZPRoSNDQCkNYb1C+jHbQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Basta con añadir un simple metodo de extension en la clase {{gtClass:FAMIXMethod}} que nos permita incorporar esta nueva visualizacion {{gtClass::"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-19T12:25:24.380999+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-19T12:25:45.652468+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "jrl0RISNDQCkM/4kC+jHbQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "{{gtMethod:FAMIXMethod>>gtStateLeakFor:}}"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-19T12:26:47.286702+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-19T12:27:32.580655+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "MASDSYSNDQCkN+E+C+jHbQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Ahora siempre que inspeccionemos una instancia del metodo de entrada de una lambda podremos comprobar su visualizacion de  variables sin inicializar:"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -1015,7 +1206,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:33:45.263803+01:00"
+						"dateAndTimeString" : "2021-11-19T12:27:39.656935+01:00"
 					}
 				},
 				"editEmail" : {
@@ -1026,14 +1217,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:34:09.78567+01:00"
+						"dateAndTimeString" : "2021-11-19T15:07:14.810252+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "7b7xVc+MDQC0jWV5CJOzBw=="
+					"uidString" : "Dme5TISNDQCkOXr4C+jHbQ=="
 				},
-				"code" : "view := GtMondrian new.\nview nodes \n  shape: [ :each |\n    BlElement new \n      padding: (BlInsets all: 2);\n      constraintsDo: [:c | \n     c horizontal fitContent.\n     c vertical fitContent ];\n      background: ((each isAnnotatedWith: 'Deprecated')\n        ifTrue: [ Color lightRed ]\n        ifFalse: [ Color veryLightGray ]) ];\n  with: (stillUsedClasses, \n    (stillUsedClasses flatCollect: #clientTypes)) asSet;\n  forEach: [ :aClass |\n    view nodes\n      shape: [ :each |\n        BlElement new\n          margin: (BlInsets all: 2);\n          geometry: BlCircleGeometry new;\n          size: ((each parentType \n            isAnnotatedWith: 'Deprecated')\n              ifTrue: [ (each clientMethods \n                intersection: clientMethods) size + 5  ]\n              ifFalse: [ 5 ]) asPoint;\n          background: Color gray ];\n      with:(aClass methods intersection: interestingMethods).\n    view layout rectanglePack ].\nview edges connectFromAll: #clientTypes.\nview layout force\n  strength: 0.15;\n  charge: -250;\n  length: 70.\nview"
+				"code" : "((lambdas collect: [:aLambda | aLambda methods ]) flatten) select: [ :aMethod | aMethod name = 'handleRequest' ]"
 			}
 		]
 	},
@@ -1045,7 +1236,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2021-11-10T11:23:53.62106+01:00"
+			"dateAndTimeString" : "2021-11-19T00:21:31.028975+01:00"
 		}
 	},
 	"editEmail" : {
@@ -1056,15 +1247,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2021-11-10T12:43:47.112535+01:00"
+			"dateAndTimeString" : "2021-11-19T00:21:52.129951+01:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Clases y metodos Deprecated en un sistema Java"
+		"title" : "Detectando fugas de estado en lambdas AWS"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "86591a5c-ce8c-0d00-b45a-59c00893b307"
+		"uuid" : "93e5d427-7a8d-0d00-970f-a5ae07f77674"
 	}
 }

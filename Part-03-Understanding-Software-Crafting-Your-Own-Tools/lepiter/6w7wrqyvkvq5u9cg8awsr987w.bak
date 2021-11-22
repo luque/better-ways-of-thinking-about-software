@@ -1,0 +1,434 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T20:48:08.333636+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T20:49:11.795319+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "6kK7LHeNDQCWn6DWB/d2dA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "La documentacion describe como se deben anotar los toggles mediante [descripciones textuales](https://edx.readthedocs.io/projects/edx-toggles/en/latest/how_to/documenting_new_feature_toggles.html#configuration-model)"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T20:52:17.983469+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T20:52:17.983469+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "VBK6GHeNDQCWkj1JB/d2dA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "When we reason about a system, we often build a model of what we are interested in. In this case, we want to reason about how toggles are defined and where they are being used."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T20:52:36.039932+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T20:52:36.039932+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "ffLJO3eNDQCWpQNqB/d2dA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "The {{gtClass:Gt4EdxImporter}} is the responsible for creating the model (can take a little while):"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T20:52:46.385063+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T20:52:54.240802+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "1f9NPXeNDQCWqFQOB/d2dA=="
+				},
+				"code" : "root := Gt4EdxGlobals rootDirectory.\rmodel := Gt4EdxGlobals toggleModel"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T22:27:30.253202+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-18T22:27:30.253202+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "6XXkj3iNDQCWqjnaB/d2dA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Inspecting the above code leads to a model object that holds all detected toggle definitions in the system. Now that we have interesting entities, let's quickly see where in the treemap the toggles are used:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-19T00:02:27.260763+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-19T00:02:52.140646+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "hGGo43mNDQCXAL1tB/d2dA=="
+				},
+				"code" : "toggleUsers := model allEdxToggles flatCollectAsSet: [:toggle | toggle uses collect: [:u | u sourceAnchor fileReference ]].\rGtNestedRectangleTreeMap new\r\ttree: root;\r\tdeep: #directories;\r\tleaves: [ :anItem | anItem files select: [:each | each extension = 'py']];\r\tcontainerElement: [ :anElement :aNodeContext | \r\t\t| label scaledLabel |\r\t\taNodeContext level = 2 ifTrue: [\r\t\t\tlabel := BlTextElement new \r\t\t\t\ttext: (aNodeContext model basename asRopedText\r\t\t\t\t\t\t\tglamorousRegularFont;\r\t\t\t\t\t\t\tbold;\r\t\t\t\t\t\t\tforeground: (Color black alpha: 0.6)).\r\t\t\tscaledLabel := label asScalableElement \r\t\t\t\tzIndex: 10; \r\t\t\t\tconstraintsDo: [:c | \r\t\t\t\t\tc horizontal matchParent. \r\t\t\t\t\tc vertical matchParent. \r\t\t\t\t\tc ignoreByLayout.\r\t\t\t\t\tc ignored horizontal weight: 0.2.\r\t\t\t\t\tc ignored horizontal alignCenter].\r\t\t\tanElement addChild: scaledLabel].\r\t\tanElement border: (BlBorder \r\t\t\tpaint: (Color black alpha: 0.5 / aNodeContext level) \r\t\t\twidth: 2).\r\t\tanElement padding: (BlInsets all: 2) ];\r\tleafElement: [ :anElement :aLeafContext | \r\t\t(toggleUsers includes: aLeafContext model) \r\t\t\tifTrue: [ anElement background: Color red ] \r\t\t\tifFalse: [\r\t\t\t\tanElement background: Color white ] ]"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T11:42:00.226689+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T11:42:15.492081+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "i9hw/XmNDQCXDIpmB/d2dA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "The model contains a few properties and connections that we can use to answer questions. So, let's formulate some:"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T11:42:33.123233+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T11:42:51.347306+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "AV8IBMCNDQCNNHIkB2rmig=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "What are the undocumented toggles?"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T11:42:48.30637+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T11:42:53.042171+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "6cbUBcCNDQCNOLjyB2rmig=="
+				},
+				"code" : "model allEdxToggles select: [:each | each hasAnnotatedToggleName not ]"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T11:46:06.355991+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T11:46:07.841224+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "7j0mCMCNDQCNPEQOB2rmig=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "What are the hidden dependencies between top components introduced by toggles?:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T11:43:44.530023+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-22T11:43:47.836651+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "k64uCcCNDQCNPQl+B2rmig=="
+				},
+				"code" : "dependencies := Dictionary new.\r(model allEdxToggles reject: [:each | \r\teach containerFiles size > 1]) do: [:toggle | \r\ttoggle uses do: [:use |\r\t\tassoc := (use containerFiles anyOne edxTopComponent -> toggle containerFiles anyOne edxTopComponent).\r\t\tdependencies \r\t\t\tat: assoc ifAbsentPut: [OrderedCollection new].\r\t\t(dependencies at: assoc) add: use ] ].\rm := GtMondrian new.\rm nodes \r\tstencil: [ :each | BrLabel new text: each name; aptitude: BrGlamorousLabelAptitude];\r\twith: ((dependencies keys collect: #key), (dependencies keys collect: #value)) asSet.\rm edges \r\tstencil: [:assoc | \r\t\tBlParabollaArcElement new \r\t\t\twhen: BlClickEvent do: [:e | e target phlow spawnObject: assoc value asMooseGroup. e consumed: true ];\r\t\t\tcurvatureFraction: 0.3;\r\t\t\tborder: (BlBorder paint: Color orange width: assoc value size / 40);\r\t\t\ttoHead: (BlArrowheadSimpleArrow new\r\t\t\t\t\tbackground: Color orange)];\r\tconnect: (dependencies associations reject: [:assoc | assoc key key = assoc key value ]) \r\tfrom: [ :assoc | assoc key key ] \r\tto: [ :assoc | assoc key value].\rm layout circle radius: 100.\rm "
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2021-11-18T20:33:15.059525+01:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2021-11-22T11:39:52.348928+01:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Uso de los Feature Toggles"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "dcfc7cf7-768d-0d00-9688-8a0307f77674"
+	}
+}

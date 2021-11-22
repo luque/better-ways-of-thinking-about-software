@@ -113,6 +113,40 @@
 				"code" : "\" Shell commands:\r\r$ git clone git@github.com:argouml-tigris-org/argouml.git\r$ cd argouml\rargouml$ git checkout VERSION_0_34\rargouml$ jdt2famix .\r\""
 			},
 			{
+				"__type" : "pictureSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-19T11:14:33.245852+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-11-19T11:14:34.544358+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "zBRGR4ONDQCQyJL3CrKxag=="
+				},
+				"url" : "https://raw.githubusercontent.com/feenkcom/jdt2famix/master/doc/jdt2famix.png"
+			},
+			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
@@ -137,7 +171,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T11:33:50.716963+01:00"
+						"dateAndTimeString" : "2021-11-19T11:13:58.042363+01:00"
 					}
 				},
 				"uid" : {
@@ -147,7 +181,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Ahora cargamos el fichero MSE generado en el paso anterior para obtener un modelo FAMIX del sistema ArgoUML:"
+				"string" : "Ahora cargamos el fichero MSE generado en el paso anterior para obtener un modelo FAMIX del sistema ArgoUML (tarda unos instantes):"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -174,7 +208,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:05:36.542941+01:00"
+						"dateAndTimeString" : "2021-11-10T13:43:06.600488+01:00"
 					}
 				},
 				"uid" : {
@@ -779,7 +813,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-10T12:28:50.711075+01:00"
+						"dateAndTimeString" : "2021-11-19T13:37:45.737507+01:00"
 					}
 				},
 				"uid" : {
