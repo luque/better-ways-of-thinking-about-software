@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-11-18T20:49:11.795319+01:00"
+						"dateAndTimeString" : "2021-11-22T11:49:47.888396+01:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "La documentacion describe como se deben anotar los toggles mediante [descripciones textuales](https://edx.readthedocs.io/projects/edx-toggles/en/latest/how_to/documenting_new_feature_toggles.html#configuration-model)"
+				"string" : "/La documentacion describe como se deben anotar los toggles mediante [descripciones textuales](https://edx.readthedocs.io/projects/edx-toggles/en/latest/how_to/documenting_new_feature_toggles.html#configuration-model)"
 			},
 			{
 				"__type" : "textSnippet",
